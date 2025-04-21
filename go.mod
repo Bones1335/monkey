@@ -1,3 +1,3 @@
-module github.com/Bones1335/build-an-interpreter-in-go
+module monkey
 
 go 1.24.2
